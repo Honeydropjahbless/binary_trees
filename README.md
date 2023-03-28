@@ -156,7 +156,7 @@ Returns 1 if the node is a leaf, 0 otherwise.
 >
 - 19. Lowest common ancestor
   >
-  - [100-binary_trees_ancestor.c]https://github.com/Honeydropjahbless/binary_trees/blob/master/100-binary_trees_ancestor.c(): C function that returns a pointer to the lowest common ancestor node of two given nodes in a binary tree.
+  - [100-binary_trees_ancestor.c](https://github.com/Honeydropjahbless/binary_trees/blob/master/100-binary_trees_ancestor.c): C function that returns a pointer to the lowest common ancestor node of two given nodes in a binary tree.
   - Returns NULL if no common ancestor is found.
 >
 - 20. Level-order traversal
