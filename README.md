@@ -4,7 +4,7 @@ This was a partner project in which we learned about the details, advantages, an
 
 ## Tests ✔️
 
-  - [Tester](https://github.com/Honeydropjahbless/binary_trees): Folder of test files for all tasks. Provided by ALX.
+  - [Tester](https://github.com/Honeydropjahbless/binary_trees/tree/master/Main_tester): Folder of test files for all tasks. Provided by ALX.
 
 ## Helper File 🙌
 
