@@ -10,7 +10,7 @@ This was a partner project in which we learned about the details, advantages, an
 
 ## Header File 📁
 
-  - Header file containing definitions and prototypes for all types and functions written for the project.
+  - [binary_trees.h](https://github.com/Honeydropjahbless/binary_trees/blob/master/binary_trees.h): Header file containing definitions and prototypes for all types and functions written for the project.
 
 Data Structures
 
